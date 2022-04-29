@@ -6,7 +6,7 @@ A Telegram bot to backup your private message texts real-time to your desired Te
 Then `@ChatBackupTelegramBot` is your perfect solution !
 
 Because `@ChatBackupTelegramBot`,
-        * backup your private messages real-time
-        * doesn't affect the message seen status (a HUGE plus)
+- backup your private messages real-time
+- doesn't affect the message seen status (a HUGE plus)
         
   
